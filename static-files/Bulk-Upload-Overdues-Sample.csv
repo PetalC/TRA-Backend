@@ -1,0 +1,2 @@
+Debtor ACN *,Debtor Entity Name *,Date of Oldest Invoice *,Overdue Type *,Insurer Name *,Current Oustanding Amount *,30 Days Outstanding Amount *,60 Days Outstanding Amount *,90 Days Outstanding Amount *,90+ Days Outstanding Amount *,Total Outstanding Amount,Client Comment
+163738298,J D CONSTRUCTIONS & DEVELOPMENT PTY LTD,2021-09-07T14:00:00.000+00:00,PAYMENT_EXPECTED,Trade Credit Risk,$100.00,$400.00,$300.00,$400.00,$500.00,$2000,Test comment for development
